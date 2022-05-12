@@ -1,0 +1,3 @@
+[submodule "Arduino_Core_CH32"]
+	path = Arduino_Core_CH32
+	url = ../Arduino_Core_CH32.git
