@@ -19,7 +19,7 @@
                     "checksum":"",
                     "size": "",
                     "boards":[
-                        {"name": "CH32V307Evaluation"}
+                        {"name": "CH32V307EVT"}
                     ],
                     "toolsDependencies": [
                         {
