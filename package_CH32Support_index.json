@@ -16,32 +16,32 @@
                     "category": "Contributed",
                     "url": "null",
                     "archiveFileName": "temp.bz2",
-                    "checksum":"",
-                    "size": "",
+                    "checksum":"null",
+                    "size": "null",
                     "boards":[
                         {"name": "CH32V307EVT"}
                     ],
                     "toolsDependencies": [
                         {
-                            "packager": "",
-                            "name": "",
-                            "version": ""
+                            "packager": "null",
+                            "name": "null",
+                            "version": "null"
                         }
                     ]
                 }
             ],
             "tools": [
                 {
-                    "name": "",
-                    "version": "",
+                    "name": "null",
+                    "version": "null",
                     "systems":
                     [
                         {
-                            "host": "",
-                            "url": "",
-                            "archiveFileName": "",
-                            "checksum": "",
-                            "size": ""
+                            "host": "null",
+                            "url": "null",
+                            "archiveFileName": "null",
+                            "checksum": "null",
+                            "size": "null"
                         }
                     ]
                 }
