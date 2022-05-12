@@ -23,9 +23,9 @@
                     ],
                     "toolsDependencies": [
                         {
-                            "packager": "Xuhao Wang",
-                            "name": "STM32Tools",
-                            "version": "2.0.0"
+                            "packager": "null",
+                            "name": "null",
+                            "version": "null"
                         }
                     ]
                 }
