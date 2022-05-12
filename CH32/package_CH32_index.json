@@ -1,0 +1,51 @@
+{
+    "packages": [
+        {
+            "name": "CH32Support",
+            "websiteURL": "https://github.com/HaoYuanSama",
+            "maintainer": "王旭昊",
+            "email": "wxh_nefu@qq.com",
+            "help": {
+                "online":"https://github.com/HaoYuanSama/CH32duino_BoardManagerFiles/wiki"
+            },
+            "platforms": [
+                {
+                    "name": "CH32 MCU based boards",
+                    "architecture": "CH32",
+                    "version": "1.0.0",
+                    "category": "Contributed",
+                    "url": "null",
+                    "archiveFileName": "temp.bz2",
+                    "checksum":"",
+                    "size": "",
+                    "boards":[
+                        {"name": "CH32V307EVT"}
+                    ],
+                    "toolsDependencies": [
+                        {
+                            "packager": "",
+                            "name": "",
+                            "version": ""
+                        }
+                    ]
+                }
+            ],
+            "tools": [
+                {
+                    "name": "",
+                    "version": "",
+                    "systems":
+                    [
+                        {
+                            "host": "",
+                            "url": "",
+                            "archiveFileName": "",
+                            "checksum": "",
+                            "size": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
