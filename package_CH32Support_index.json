@@ -3,7 +3,7 @@
         {
             "name": "CH32Support",
             "websiteURL": "https://github.com/HaoYuanSama",
-            "maintainer": "王旭昊",
+            "maintainer": "Xuhao Wang, Yao Guo",
             "email": "wxh_nefu@qq.com",
             "help": {
                 "online":"https://github.com/HaoYuanSama/CH32duino_BoardManagerFiles/wiki"
