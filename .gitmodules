@@ -1,3 +1,6 @@
 [submodule "CH32/src/Arduino_Core_CH32.git"]
 	path = CH32/src/Arduino_Core_CH32.git
 	url = ../Arduino_Core_CH32.git
+[submodule "CH32/src/Arduino_Tools_CH32.git"]
+	path = CH32/src/Arduino_Tools_CH32.git
+	url = ../Arduino_Tools_CH32.git
