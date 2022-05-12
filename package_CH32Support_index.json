@@ -6,7 +6,7 @@
             "maintainer": "Xuhao Wang, Yao Guo",
             "email": "wxh_nefu@qq.com",
             "help": {
-                "online":"https://github.com/HaoYuanSama/CH32duino_BoardManagerFiles/wiki"
+                "online": "https://github.com/HaoYuanSama/CH32duino_BoardManagerFiles/wiki"
             },
             "platforms": [
                 {
@@ -16,7 +16,7 @@
                     "category": "Contributed",
                     "url": "null",
                     "archiveFileName": "temp.bz2",
-                    "checksum":"null",
+                    "checksum": "null",
                     "size": "null",
                     "boards":[
                         {"name": "CH32V307EVT"}
