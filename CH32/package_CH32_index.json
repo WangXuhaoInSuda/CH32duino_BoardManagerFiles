@@ -3,10 +3,10 @@
         {
             "name": "CH32Support",
             "websiteURL": "https://github.com/HaoYuanSama",
-            "maintainer": "王旭昊",
+            "maintainer": "Xuhao Wang, Yao Guo",
             "email": "wxh_nefu@qq.com",
             "help": {
-                "online":"https://github.com/HaoYuanSama/CH32duino_BoardManagerFiles/wiki"
+                "online": "https://github.com/HaoYuanSama/CH32duino_BoardManagerFiles/wiki"
             },
             "platforms": [
                 {
@@ -14,34 +14,34 @@
                     "architecture": "CH32",
                     "version": "1.0.0",
                     "category": "Contributed",
-                    "url": "null",
-                    "archiveFileName": "temp.bz2",
-                    "checksum":"",
+                    "url": "",
+                    "archiveFileName": "",
+                    "checksum": "",
                     "size": "",
                     "boards":[
                         {"name": "CH32V307EVT"}
                     ],
                     "toolsDependencies": [
                         {
-                            "packager": "",
-                            "name": "",
-                            "version": ""
+                            "packager": "null",
+                            "name": "null",
+                            "version": "null"
                         }
                     ]
                 }
             ],
             "tools": [
                 {
-                    "name": "",
-                    "version": "",
+                    "name": "null",
+                    "version": "null",
                     "systems":
                     [
                         {
-                            "host": "",
-                            "url": "",
-                            "archiveFileName": "",
-                            "checksum": "",
-                            "size": ""
+                            "host": "null",
+                            "url": "null",
+                            "archiveFileName": "null",
+                            "checksum": "null",
+                            "size": "null"
                         }
                     ]
                 }

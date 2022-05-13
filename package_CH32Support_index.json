@@ -14,10 +14,10 @@
                     "architecture": "CH32",
                     "version": "1.0.0",
                     "category": "Contributed",
-                    "url": "https://github.com/stm32duino/Arduino_Core_STM32/releases/download/2.0.0/STM32-2.0.0.tar.bz2",
-                    "archiveFileName": "STM32-2.0.0.tar.bz2",
-                    "checksum": "SHA-256:31e7a98afdc595335acbd111b39563350eb63bd0bcd005aebbe6fe1f8bad26fe",
-                    "size": "38496810",
+                    "url": "",
+                    "archiveFileName": "",
+                    "checksum": "",
+                    "size": "",
                     "boards":[
                         {"name": "CH32V307EVT"}
                     ],
