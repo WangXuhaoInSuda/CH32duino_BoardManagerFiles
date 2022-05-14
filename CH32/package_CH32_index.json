@@ -14,10 +14,10 @@
                     "architecture": "CH32",
                     "version": "1.0.0",
                     "category": "Contributed",
-                    "url": "",
-                    "archiveFileName": "",
-                    "checksum": "",
-                    "size": "",
+                    "url": "https://github.com/HaoYuanSama/Arduino_Core_CH32/releases/download/test/Arduino-Core-CH32-1.0.0.tar.gz",
+                    "archiveFileName": "Arduino-Core-CH32-1.0.0.tar.gz",
+                    "checksum": "SHA-256:d60abf24a7218c22650dd4d527fe876bbc5bf7cf7de7ef8bb3b33bf17432b734",
+                    "size": "353120",
                     "boards":[
                         {"name": "CH32V307EVT"}
                     ],
