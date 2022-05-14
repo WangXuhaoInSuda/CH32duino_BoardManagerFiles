@@ -16,8 +16,8 @@
                     "category": "Contributed",
                     "url": "https://github.com/HaoYuanSama/Arduino_Core_CH32/releases/download/test/Arduino-Core-CH32-1.0.0.tar",
                     "archiveFileName": "Arduino-Core-CH32-1.0.0.tar",
-                    "checksum": "SHA-256:ed53580d2ae783f446ecb1ebf538bf1483064005d15b9b70c427e10ab434c252",
-                    "size": "1477120",
+                    "checksum": "SHA-256:d60abf24a7218c22650dd4d527fe876bbc5bf7cf7de7ef8bb3b33bf17432b734",
+                    "size": "353120",
                     "boards":[
                         {"name": "CH32V307EVT"}
                     ],
