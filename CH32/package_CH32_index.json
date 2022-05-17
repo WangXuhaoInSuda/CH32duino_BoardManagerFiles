@@ -25,8 +25,8 @@
                     ],
                     "toolsDependencies": [
                         {
-                            "packager": "xpack-dev-tools",
-                            "name": "arm-none-eabi-gcc-xpack",
+                            "packager": "STMicroelectronics",
+                            "name": "xpack-arm-none-eabi-gcc",
                             "version": "10.3.1-2.3"
                         }
                     ]
