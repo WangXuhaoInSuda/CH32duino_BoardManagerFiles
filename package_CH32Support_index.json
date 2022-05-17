@@ -25,7 +25,7 @@
                     ],
                     "toolsDependencies": [
                         {
-                            "packager": "STMicroelectronics",
+                            "packager": "CH32Support",
                             "name": "xpack-arm-none-eabi-gcc",
                             "version": "10.3.1-2.3"
                         }
