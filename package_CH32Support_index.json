@@ -25,7 +25,7 @@
                     ],
                     "toolsDependencies": [
                         {
-                            "packager": "mingw32",
+                            "packager": "WangXuhao",
                             "name": "mingw32",
                             "version": "5.1.6"
                         }
@@ -40,7 +40,7 @@
                         {
                             "host": "i686-mingw32",
                             "url": "https://github.com/HaoYuanSama/Arduino_Tools_CH32/releases/download/GNUTools/MinGW-5.1.6.zip",
-                            "archiveFileName": "MinGW-5.1.6.zip",
+                            "archiveFileName": "mingw32-5.1.6-i686-mingw32.zip",
                             "checksum": "SHA-256:5c9a423675a463d869c2f569ac72e1fd01a25980781c6fe93f134899e6c4c1bf",
                             "size": "262254592"
                         },
