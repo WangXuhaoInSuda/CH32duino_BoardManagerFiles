@@ -2,11 +2,11 @@
     "packages": [
         {
             "name": "CH32Support",
-            "websiteURL": "https://github.com/HaoYuanSama",
+            "websiteURL": "https://github.com/WangXuhaoInSuda",
             "maintainer": "Xuhao Wang, Yao Guo",
             "email": "wxh_nefu@qq.com",
             "help": {
-                "online": "https://github.com/HaoYuanSama/CH32duino_BoardManagerFiles/wiki"
+                "online": "https://github.com/WangXuhaoInSuda/CH32duino_BoardManagerFiles/wiki"
             },
             "platforms": [
                 {
@@ -14,14 +14,13 @@
                     "architecture": "CH32",
                     "version": "1.0.0",
                     "category": "Contributed",
-                    "url": "https://github.com/HaoYuanSama/Arduino_Core_CH32/releases/download/test/Arduino_Core_1.0.0.tar.gz",
+                    "url": "https://github.com/WangXuhaoInSuda/Arduino_Core_CH32/releases/download/test/Arduino_Core_1.0.0.tar.gz",
                     "archiveFileName": "Arduino_Core_1.0.0.tar.gz",
                     "checksum": "SHA-256:d60abf24a7218c22650dd4d527fe876bbc5bf7cf7de7ef8bb3b33bf17432b734",
                     "size": "353120",
                     "boards": [
-                        {
-                            "name": "CH32V307EVT"
-                        }
+                        {"name": "CH32v307EVT_G"},
+                        {"name": "CH32v307EVT_B"}
                     ],
                     "toolsDependencies": [
                         {
@@ -39,7 +38,7 @@
                     "systems": [
                         {
                             "host": "i686-mingw32",
-                            "url": "https://github.com/HaoYuanSama/Arduino_Tools_CH32/releases/download/GNUTools/mingw32-5.1.6-i686-mingw32.zip",
+                            "url": "https://github.com/WangXuhaoInSuda/Arduino_Tools_CH32/releases/download/GNUTools/mingw32-5.1.6-i686-mingw32.zip",
                             "archiveFileName": "mingw32-5.1.6-i686-mingw32.zip",
                             "checksum": "SHA-256:5c9a423675a463d869c2f569ac72e1fd01a25980781c6fe93f134899e6c4c1bf",
                             "size": "262254592"

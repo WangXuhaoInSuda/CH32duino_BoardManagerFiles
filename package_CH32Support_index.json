@@ -19,9 +19,8 @@
                     "checksum": "SHA-256:d60abf24a7218c22650dd4d527fe876bbc5bf7cf7de7ef8bb3b33bf17432b734",
                     "size": "353120",
                     "boards": [
-                        {
-                            "name": "CH32V307EVT"
-                        }
+                        {"name": "CH32v307EVT_G"},
+                        {"name": "CH32v307EVT_B"}
                     ],
                     "toolsDependencies": [
                         {
