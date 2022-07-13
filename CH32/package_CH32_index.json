@@ -27,6 +27,11 @@
                             "packager": "CH32Support",
                             "name": "mingw32",
                             "version": "5.1.6"
+                        },
+                        {
+                            "packager": "CH32Support",
+                            "name": "uartUploader",
+                            "version": "1.0.0"
                         }
                     ]
                 }
@@ -45,6 +50,7 @@
                         }
                     ]
                 }
+                
             ]
         }
     ]
