@@ -12,12 +12,12 @@
                 {
                     "name": "CH32 MCU based boards",
                     "architecture": "CH32",
-                    "version": "1.0.0",
+                    "version": "2.0.0",
                     "category": "Contributed",
-                    "url": "https://github.com/WangXuhaoInSuda/Arduino_Core_CH32/releases/download/test/Arduino_Core_1.0.0.tar.gz",
-                    "archiveFileName": "Arduino_Core_1.0.0.tar.gz",
-                    "checksum": "SHA-256:d60abf24a7218c22650dd4d527fe876bbc5bf7cf7de7ef8bb3b33bf17432b734",
-                    "size": "353120",
+                    "url": "https://github.com/WangXuhaoInSuda/Arduino_Core_CH32/releases/download/Core/Arduino_Core_CH32.zip",
+                    "archiveFileName": "Arduino_Core_CH32.zip",
+                    "checksum": "SHA-256:0f35c9428625ebd718425a96886c9b94770ca1f0ef56ee7acee6104404662bef",
+                    "size": "341232",
                     "boards": [
                         {"name": "CH32v307EVT_G"},
                         {"name": "CH32v307EVT_B"}
@@ -25,26 +25,45 @@
                     "toolsDependencies": [
                         {
                             "packager": "CH32Support",
-                            "name": "mingw32",
-                            "version": "5.1.6"
+                            "name": "riscv-none-embed-gcc",
+                            "version": "8.2.0"
+                        },
+                        {
+                            "packager": "CH32Support",
+                            "name": "uartUploader",
+                            "version": "1.0.0"
                         }
                     ]
                 }
             ],
             "tools": [
                 {
-                    "name": "mingw32",
-                    "version": "5.1.6",
+                    "name": "riscv-none-embed-gcc",
+                    "version": "8.2.0",
                     "systems": [
                         {
                             "host": "i686-mingw32",
-                            "url": "https://github.com/WangXuhaoInSuda/Arduino_Tools_CH32/releases/download/GNUTools/mingw32-5.1.6-i686-mingw32.zip",
-                            "archiveFileName": "mingw32-5.1.6-i686-mingw32.zip",
-                            "checksum": "SHA-256:5c9a423675a463d869c2f569ac72e1fd01a25980781c6fe93f134899e6c4c1bf",
-                            "size": "262254592"
+                            "url": "https://github.com/WangXuhaoInSuda/Arduino_Tools_CH32/releases/download/GNUTools/riscv-none-embed-gcc-8.2.0.zip",
+                            "archiveFileName": "riscv-none-embed-gcc-8.2.0.zip",
+                            "checksum": "SHA-256:5199c7481813b2b7f0528bcde3e0da2165dfa4356871353f25f6644f51b88344",
+                            "size": "254697424"
+                        }
+                    ]
+                },
+                {
+                    "name": "uartUploader",
+                    "version": "1.0.0",
+                    "systems": [
+                        {
+                            "host": "i686-mingw32",
+                            "url": "https://github.com/WangXuhaoInSuda/Arduino_Tools_CH32/releases/download/UploadTool/uartUploader-1.0.0.zip",
+                            "archiveFileName": "uartUploader-1.0.0.zip",
+                            "checksum": "SHA-256:5aaada5a4c466ac374b48686640ec07f2d63aae8dedc542b9e91ea6ad084538b",
+                            "size": "208857"
                         }
                     ]
                 }
+                
             ]
         }
     ]
