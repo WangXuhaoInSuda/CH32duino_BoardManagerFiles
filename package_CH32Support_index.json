@@ -16,8 +16,8 @@
                     "category": "Contributed",
                     "url": "https://github.com/WangXuhaoInSuda/Arduino_Core_CH32/releases/download/Core/Arduino_Core_CH32-2.0.0.zip",
                     "archiveFileName": "Arduino_Core_CH32-2.0.0.zip",
-                    "checksum": "SHA-256:aa87ac2bfaf464473f39954dfe0b25600fb9ce9a45943821b474af87ba88a9bc",
-                    "size": "339861",
+                    "checksum": "SHA-256:f5deaadf30efa4bdb6f6691640f351d8b86ce869b89a5e530544b83e7f1ac662",
+                    "size": "343672",
                     "boards": [
                         {"name": "CH32v307EVT_G"},
                         {"name": "CH32v307EVT_B"}
@@ -58,8 +58,8 @@
                             "host": "i686-mingw32",
                             "url": "https://github.com/WangXuhaoInSuda/Arduino_Tools_CH32/releases/download/UploadTool/uartUploader-1.0.0.zip",
                             "archiveFileName": "uartUploader-1.0.0.zip",
-                            "checksum": "SHA-256:6570aa26f292ecbc00b737b245f56114168b49d353b841121bd047c56885467c",
-                            "size": "208605"
+                            "checksum": "SHA-256:3a7faaf49951cbd87aa7e6856fab1dd26e4b76a4e9d352263a6ddfbd6659be84",
+                            "size": "209770"
                         }
                     ]
                 }
