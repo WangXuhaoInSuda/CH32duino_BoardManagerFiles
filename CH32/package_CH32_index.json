@@ -14,10 +14,10 @@
                     "architecture": "CH32",
                     "version": "2.0.0",
                     "category": "Contributed",
-                    "url": "https://github.com/WangXuhaoInSuda/Arduino_Core_CH32/releases/download/Core/Arduino_Core_CH32.zip",
-                    "archiveFileName": "Arduino_Core_CH32.zip",
-                    "checksum": "SHA-256:0f35c9428625ebd718425a96886c9b94770ca1f0ef56ee7acee6104404662bef",
-                    "size": "341232",
+                    "url": "https://github.com/WangXuhaoInSuda/Arduino_Core_CH32/releases/download/Core/Arduino_Core_CH32-2.0.0.zip",
+                    "archiveFileName": "Arduino_Core_CH32-2.0.0.zip",
+                    "checksum": "SHA-256:aa87ac2bfaf464473f39954dfe0b25600fb9ce9a45943821b474af87ba88a9bc",
+                    "size": "339861",
                     "boards": [
                         {"name": "CH32v307EVT_G"},
                         {"name": "CH32v307EVT_B"}
@@ -45,8 +45,8 @@
                             "host": "i686-mingw32",
                             "url": "https://github.com/WangXuhaoInSuda/Arduino_Tools_CH32/releases/download/GNUTools/riscv-none-embed-gcc-8.2.0.zip",
                             "archiveFileName": "riscv-none-embed-gcc-8.2.0.zip",
-                            "checksum": "SHA-256:5199c7481813b2b7f0528bcde3e0da2165dfa4356871353f25f6644f51b88344",
-                            "size": "254697424"
+                            "checksum": "SHA-256:867e84eb9618f899212eb7062e644a4207fc6db8a7c62ac05f48d9bf208bfb51",
+                            "size": "254824448"
                         }
                     ]
                 },
@@ -58,8 +58,8 @@
                             "host": "i686-mingw32",
                             "url": "https://github.com/WangXuhaoInSuda/Arduino_Tools_CH32/releases/download/UploadTool/uartUploader-1.0.0.zip",
                             "archiveFileName": "uartUploader-1.0.0.zip",
-                            "checksum": "SHA-256:5aaada5a4c466ac374b48686640ec07f2d63aae8dedc542b9e91ea6ad084538b",
-                            "size": "208857"
+                            "checksum": "SHA-256:6570aa26f292ecbc00b737b245f56114168b49d353b841121bd047c56885467c",
+                            "size": "208605"
                         }
                     ]
                 }
