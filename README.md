@@ -9,5 +9,5 @@ Only support the CH32V307 core currently.
 Only support the Windows platform currently.
 
 在首选项中填入下面的链接。<br>
-Add the link below in preference.
+Add the link below in preference.<br>
 https://raw.githubusercontent.com/WangXuhaoInSuda/CH32duino_BoardManagerFiles/main/package_CH32Support_index.json
